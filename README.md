@@ -2,7 +2,7 @@
 # Olá! :wave:
 
 <!--Introduction -->
-Meu nome é Vinícius de Andrade Fernandes, tenho 19 anos, moro São Paulo,SP. Sempre gostei de tecnologia, desde criança tenho esse amor por tecnologia. Atualmente cursando Bacharelado em Sistemas de Informação e Técnologo em Análise e Desenvolvimento de Sistemas.
+Meu nome é **Vinícius de Andrade Fernandes**, tenho 19 anos, moro **São Paulo,SP**. Sempre gostei de tecnologia, desde criança tenho esse amor por tecnologia. Atualmente cursando Bacharelado em **Sistemas de Informação** e Técnologo em **Análise e Desenvolvimento de Sistemas**.
 <br>
 
 <!-- Your badges -->
