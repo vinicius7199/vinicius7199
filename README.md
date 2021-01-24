@@ -7,7 +7,7 @@ Meu nome é **Vinícius de Andrade Fernandes**, tenho **19 anos**, moro **São P
 
 [![Linkedin](https://img.shields.io/badge/-viniciusafe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusafe)
 [![Instagram](https://img.shields.io/badge/-viniciusafe-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusafe)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contactviniciusafe@gmail.com)
 
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
