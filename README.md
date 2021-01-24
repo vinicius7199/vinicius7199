@@ -5,7 +5,7 @@
 Meu nome é **Vinícius de Andrade Fernandes**, tenho **19 anos**, moro **São Paulo,SP**. Sempre gostei de tecnologia, desde criança tenho esse amor por tecnologia. Atualmente cursando Bacharelado em **Sistemas de Informação** e Técnologo em **Análise e Desenvolvimento de Sistemas**.
 <br>
 
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusafe)
+[![Linkedin](https://img.shields.io/badge/-Viniciusafe-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusafe)
 [![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
 [![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
 
