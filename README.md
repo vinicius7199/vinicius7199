@@ -20,7 +20,7 @@ Como estamos em Quarentena, acabo tendo mais tempo disponível, por conta de nã
 * 📰 Ler livros
 * 🏋️‍♂️ Exercícios Físicos
 
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+ ### Técnologias e Ferramentas: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/JoykishanSharma?tab=repositories">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
