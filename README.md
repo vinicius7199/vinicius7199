@@ -47,16 +47,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 
 </p>
 
-<h4 align="center"> Thanks for Visiting! :innocent:</h4>
-
-:star: From [JoykishanSharma](https://github.com/JoykishanSharma)
-
-
-<!-- Credit -->
-### Credit to 
-- [**GIPHY**](https://giphy.com/) for GIFs. 
-
-
 <!--
 **JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
