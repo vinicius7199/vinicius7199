@@ -25,8 +25,6 @@ Como estamos em Quarentena, acabo tendo mais tempo disponível, por conta de nã
   <a href="https://github.com/vinicius7199?tab=repositories">
     <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=vinicius7199&show_icons=true&theme=algolia&count_private=true" />
-   <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
   </a>
  <!-- icons -->
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
@@ -43,5 +41,6 @@ Como estamos em Quarentena, acabo tendo mais tempo disponível, por conta de nã
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
-
+<img width="30%" height="auto" align="right" alt="Vinicius Andrade github stats" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius7199&layout=compact" />
 </p>
