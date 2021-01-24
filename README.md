@@ -5,9 +5,7 @@
 Meu nome é **Vinícius de Andrade Fernandes**, tenho **19 anos**, moro **São Paulo,SP**. Sempre gostei de tecnologia, desde criança tenho esse amor por tecnologia. Atualmente cursando Bacharelado em **Sistemas de Informação** e Técnologo em **Análise e Desenvolvimento de Sistemas**.
 <br>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<!-- Your badges -->
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="viniciusafe"><a class="LI-simple-link" href='https://br.linkedin.com/in/viniciusafe?trk=profile-badge'>Vinicius Andrade</a></div>
+[![Linkedin](<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="viniciusafe"><a class="LI-simple-link" href='https://br.linkedin.com/in/viniciusafe?trk=profile-badge'>Vinicius Andrade</a></div>)
 [![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/joykishan_sharma)
 [![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)
 [![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120)
