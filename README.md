@@ -8,7 +8,7 @@ Meu nome é **Vinícius de Andrade Fernandes**, tenho **19 anos**, moro **São P
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contactviniciusafe@gmail.com)
 
 <!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
+![](https://komarev.com/ghpvc/?username=vinicius7199&style=flat)
 
 ### 💼  Projetos pessoais: 
 * Estudando API's de processamento de pagamentos
