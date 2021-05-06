@@ -13,7 +13,7 @@ Meu nome é **Vinícius de Andrade Fernandes**, tenho **19 anos**, moro **São P
 ### 💼  Projetos pessoais: 
 * Estudando API's de processamento de pagamentos
 * Estudando JavaScript e suas Frameworks
-* Estudando Python
+* Estudando Angular e .NET Entity Framework
 
  ### Técnologias e Ferramentas: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
