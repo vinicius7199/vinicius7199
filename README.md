@@ -15,11 +15,6 @@ Meu nome é **Vinícius de Andrade Fernandes**, tenho **19 anos**, moro **São P
 * Estudando JavaScript e suas Frameworks
 * Estudando Python
 
-### 🌱 Desafios pessoais:
-Como estamos em Quarentena, acabo tendo mais tempo disponível, por conta de não ficar preso no trânsito. Alguns desafios que estou impondo a mim mesmo:
-* 📰 Ler livros
-* 🏋️‍♂️ Exercícios Físicos
-
  ### Técnologias e Ferramentas: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/vinicius7199?tab=repositories">
