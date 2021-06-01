@@ -39,3 +39,5 @@ Meu nome é **Vinícius de Andrade Fernandes**, tenho **19 anos**, moro **São P
 <img width="50%" height="auto" align="right" alt="Vinicius Andrade github stats" 
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius7199&layout=compact" />
 </p>
+
+![Snake animation](https://github.com/vinicius7199/vinicius7199/blob/output/github-contribution-grid-snake.svg)
